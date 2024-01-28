@@ -1,0 +1,16 @@
+asgiref==3.7.2
+black==24.1.1
+click==8.1.7
+colorama==0.4.6
+Django==5.0.1
+django-debug-toolbar==4.2.0
+environs==10.3.0
+marshmallow==3.20.2
+mypy-extensions==1.0.0
+packaging==23.2
+pathspec==0.12.1
+platformdirs==4.1.0
+pydocstringformatter==0.7.3
+python-dotenv==1.0.1
+sqlparse==0.4.4
+tzdata==2023.4
