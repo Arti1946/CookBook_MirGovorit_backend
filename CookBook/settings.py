@@ -13,7 +13,7 @@ SECRET_KEY = env.str(
     default="django-insecure-=_rzp-#yi@9a9a6zf*(+r@rgsztc8@*()54k3njad*7g&sf)ac",
 )
 
-DEBUG = env.bool("DEBUG", default=False)
+DEBUG = env.bool("DEBUG", default=True)
 
 ALLOWED_HOSTS = env.list("ALLOWED_HOSTS", default=["localhost", "127.0.0.1"])
 
